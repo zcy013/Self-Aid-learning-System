@@ -9,7 +9,7 @@ public class DBUtility {
 	/* ∂®“Âurl,user,pwdµ» */
 	private final static String url = "jdbc:mysql://localhost:3306/learning_system?useSSL=true";
 	private final static String user = "root";
-	private final static String pwd = "267289";
+	private final static String pwd = "*****";
 
 	private static Connection connection;
 
