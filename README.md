@@ -1,5 +1,5 @@
 # Self---help-learning-system2016
-Course project of Java2, Spring 2016
+Final project of GE106 Computer System Design and Application(Java2), spring, 2016
 
 Java2春季课程final project
 代码仅供参考
